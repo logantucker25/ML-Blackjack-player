@@ -1,0 +1,86 @@
+    Creating socket...
+    Setting up socket...
+    Joining game...
+    Message Sent: JOIN TestGame21
+    Message Recieved: BEGIN 
+    Game beginning...
+
+[TEST] Socket = 3
+
+[TEST] Reading card 0 ...
+    Message Recieved: CARD Ace of Hearts 
+Command: 2
+Card sent: 1 of 1
+Result: 0
+
+[TEST] Reading card 1...
+    Message Recieved: CARD Two of Diamonds 
+Command: 2
+Card sent: 2 of 2
+Result: 0
+
+[TEST] Reading card 2...
+    Message Recieved: CARD Queen of Spades 
+Command: 2
+Card sent: 13 of 3
+Result: 0
+
+[TEST] Reading card 3...
+    Message Recieved: CARD Ace of Spades 
+Command: 2
+Card sent: 1 of 3
+Result: 0
+
+[TEST] Reading card 4...
+    Message Recieved: DEALER Jack of Clubs 
+Command: 3
+Card sent: 12 of 4
+Result: 0
+
+[TEST] Reading card 5...
+    Message Recieved: DEALER Three of Diamonds 
+Command: 3
+Card sent: 3 of 2
+Result: 0
+
+[TEST] Reading result...
+    Message Recieved: RESULT WIN
+Command: 5
+No card sent
+Result: 1
+
+[TEST] Reading result...
+    Message Recieved: RESULT LOOSE
+Command: 5
+No card sent
+Result: 2
+
+[TEST] Reading result...
+    Message Recieved: RESULT PUSH
+Command: 5
+No card sent
+Result: 3
+
+[TEST] Reading decision...
+    Message Recieved: DECISION
+Command: 4
+No card sent
+Result: 0
+[TEST] Sending answer...
+    Message Sent: HIT 
+
+[TEST] Send_decision out = 1
+
+[TEST] Reading decision...
+    Message Recieved: DECISION
+Command: 4
+No card sent
+Result: 0
+[TEST] Sending answer...
+    Message Sent: STAND 
+
+[TEST] Send_decision out = 1
+[TEST] Quitting game...
+    Closing socket...
+    Game over
+[TEST] Done!

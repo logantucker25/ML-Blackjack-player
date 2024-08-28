@@ -1,0 +1,58 @@
+Entered connect_network!
+    Setting up socket
+    Connecting to port...
+    Binding to port...
+    Listening...
+    Accepting...
+    Done setting up socket!
+
+[TEST] Socket = 4
+    Message Recieved: JOIN TestGame21
+[TEST] Test playerName: TestGame21
+
+[TEST] Testing send_card...
+    Sending message: CARD Ace of Hearts 
+[TEST] Sending card successful
+
+[TEST] Testing send_card...
+    Sending message: CARD Two of Diamonds 
+[TEST] Sending card successful
+
+[TEST] Testing send_card...
+    Sending message: CARD Queen of Spades 
+[TEST] Sending card successful
+
+[TEST] Testing send_card...
+    Sending message: CARD Ace of Spades 
+[TEST] Sending card successful
+
+[TEST] Testing send_dealer_card...
+    Sending message: DEALER Jack of Clubs 
+[TEST] Sending card successful
+
+[TEST] Testing send_dealer_card...
+    Sending message: DEALER Three of Diamonds 
+[TEST] Sending card successful
+
+[TEST] Testing win...
+    Sending message: RESULT WIN
+
+[TEST] Testing lose...
+    Sending message: RESULT LOOSE
+
+[TEST] Testing push...
+    Sending message: RESULT PUSH
+
+[TEST] Testing prompt decision...
+    Sending message: DECISION
+    Message Recieved: HIT 
+[TEST] Player decided 1
+
+[TEST] Testing prompt decision...
+    Sending message: DECISION
+    Message Recieved: STAND 
+[TEST] Player decided 2
+
+[TEST] Quitting game...
+    Quit Game
+[TEST] Done!

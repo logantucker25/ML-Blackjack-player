@@ -1,0 +1,560 @@
+Creating new deck.... 
+Num:   1 of Suite:   1
+Num:   2 of Suite:   1
+Num:   3 of Suite:   1
+Num:   4 of Suite:   1
+Num:   5 of Suite:   1
+Num:   6 of Suite:   1
+Num:   7 of Suite:   1
+Num:   8 of Suite:   1
+Num:   9 of Suite:   1
+Num:  10 of Suite:   1
+Num:  12 of Suite:   1
+Num:  13 of Suite:   1
+Num:  14 of Suite:   1
+Num:   1 of Suite:   2
+Num:   2 of Suite:   2
+Num:   3 of Suite:   2
+Num:   4 of Suite:   2
+Num:   5 of Suite:   2
+Num:   6 of Suite:   2
+Num:   7 of Suite:   2
+Num:   8 of Suite:   2
+Num:   9 of Suite:   2
+Num:  10 of Suite:   2
+Num:  12 of Suite:   2
+Num:  13 of Suite:   2
+Num:  14 of Suite:   2
+Num:   1 of Suite:   3
+Num:   2 of Suite:   3
+Num:   3 of Suite:   3
+Num:   4 of Suite:   3
+Num:   5 of Suite:   3
+Num:   6 of Suite:   3
+Num:   7 of Suite:   3
+Num:   8 of Suite:   3
+Num:   9 of Suite:   3
+Num:  10 of Suite:   3
+Num:  12 of Suite:   3
+Num:  13 of Suite:   3
+Num:  14 of Suite:   3
+Num:   1 of Suite:   4
+Num:   2 of Suite:   4
+Num:   3 of Suite:   4
+Num:   4 of Suite:   4
+Num:   5 of Suite:   4
+Num:   6 of Suite:   4
+Num:   7 of Suite:   4
+Num:   8 of Suite:   4
+Num:   9 of Suite:   4
+Num:  10 of Suite:   4
+Num:  12 of Suite:   4
+Num:  13 of Suite:   4
+Num:  14 of Suite:   4
+
+Shuffling deck.... 
+Num:   8 of Suite:   4
+Num:  10 of Suite:   1
+Num:  10 of Suite:   2
+Num:   7 of Suite:   1
+Num:  12 of Suite:   1
+Num:   4 of Suite:   3
+Num:   9 of Suite:   4
+Num:   2 of Suite:   2
+Num:   6 of Suite:   1
+Num:   8 of Suite:   1
+Num:   6 of Suite:   4
+Num:   3 of Suite:   2
+Num:  13 of Suite:   4
+Num:   1 of Suite:   4
+Num:   9 of Suite:   1
+Num:   4 of Suite:   4
+Num:  14 of Suite:   4
+Num:   9 of Suite:   2
+Num:   6 of Suite:   2
+Num:  13 of Suite:   1
+Num:   7 of Suite:   3
+Num:   7 of Suite:   2
+Num:  10 of Suite:   4
+Num:   6 of Suite:   3
+Num:   3 of Suite:   1
+Num:   2 of Suite:   1
+Num:  14 of Suite:   1
+Num:   1 of Suite:   3
+Num:   8 of Suite:   3
+Num:  10 of Suite:   3
+Num:   1 of Suite:   1
+Num:  13 of Suite:   3
+Num:   2 of Suite:   4
+Num:   5 of Suite:   1
+Num:   2 of Suite:   3
+Num:   5 of Suite:   3
+Num:  13 of Suite:   2
+Num:  12 of Suite:   2
+Num:   4 of Suite:   1
+Num:  12 of Suite:   3
+Num:   7 of Suite:   4
+Num:   3 of Suite:   3
+Num:   5 of Suite:   4
+Num:   4 of Suite:   2
+Num:  14 of Suite:   2
+Num:   8 of Suite:   2
+Num:   5 of Suite:   2
+Num:  14 of Suite:   3
+Num:   3 of Suite:   4
+Num:   1 of Suite:   2
+Num:  12 of Suite:   4
+Num:   9 of Suite:   3
+
+Shuffling deck.... 
+Num:   5 of Suite:   2
+Num:   8 of Suite:   1
+Num:  10 of Suite:   4
+Num:   9 of Suite:   4
+Num:   6 of Suite:   4
+Num:  10 of Suite:   3
+Num:  14 of Suite:   3
+Num:   9 of Suite:   1
+Num:   4 of Suite:   3
+Num:   2 of Suite:   2
+Num:  14 of Suite:   2
+Num:   4 of Suite:   4
+Num:  12 of Suite:   4
+Num:  12 of Suite:   3
+Num:   6 of Suite:   1
+Num:   5 of Suite:   4
+Num:   9 of Suite:   3
+Num:   7 of Suite:   2
+Num:   6 of Suite:   2
+Num:   3 of Suite:   2
+Num:   2 of Suite:   4
+Num:  13 of Suite:   1
+Num:   3 of Suite:   4
+Num:  13 of Suite:   3
+Num:  10 of Suite:   2
+Num:  10 of Suite:   1
+Num:  13 of Suite:   4
+Num:  14 of Suite:   1
+Num:   5 of Suite:   1
+Num:   5 of Suite:   3
+Num:   8 of Suite:   4
+Num:  12 of Suite:   2
+Num:   7 of Suite:   4
+Num:  12 of Suite:   1
+Num:   1 of Suite:   3
+Num:   1 of Suite:   1
+Num:   3 of Suite:   1
+Num:   6 of Suite:   3
+Num:   7 of Suite:   1
+Num:  13 of Suite:   2
+Num:   8 of Suite:   2
+Num:   8 of Suite:   3
+Num:   4 of Suite:   2
+Num:  14 of Suite:   4
+Num:   2 of Suite:   1
+Num:   7 of Suite:   3
+Num:   9 of Suite:   2
+Num:   4 of Suite:   1
+Num:   3 of Suite:   3
+Num:   1 of Suite:   4
+Num:   1 of Suite:   2
+Num:   2 of Suite:   3
+
+Shuffling deck.... 
+Num:   9 of Suite:   2
+Num:   2 of Suite:   2
+Num:   3 of Suite:   4
+Num:  14 of Suite:   3
+Num:  14 of Suite:   2
+Num:   5 of Suite:   3
+Num:   4 of Suite:   1
+Num:   6 of Suite:   1
+Num:  10 of Suite:   3
+Num:   9 of Suite:   1
+Num:   2 of Suite:   1
+Num:   5 of Suite:   4
+Num:   1 of Suite:   2
+Num:  13 of Suite:   2
+Num:   4 of Suite:   3
+Num:   4 of Suite:   2
+Num:   2 of Suite:   3
+Num:  13 of Suite:   1
+Num:   6 of Suite:   2
+Num:   4 of Suite:   4
+Num:   7 of Suite:   4
+Num:   3 of Suite:   2
+Num:   3 of Suite:   3
+Num:  12 of Suite:   2
+Num:  10 of Suite:   4
+Num:   8 of Suite:   1
+Num:  12 of Suite:   4
+Num:  13 of Suite:   4
+Num:  12 of Suite:   1
+Num:   1 of Suite:   1
+Num:   5 of Suite:   2
+Num:   6 of Suite:   3
+Num:   8 of Suite:   2
+Num:   6 of Suite:   4
+Num:  14 of Suite:   1
+Num:   8 of Suite:   4
+Num:  10 of Suite:   2
+Num:  13 of Suite:   3
+Num:   9 of Suite:   4
+Num:   3 of Suite:   1
+Num:   7 of Suite:   3
+Num:   5 of Suite:   1
+Num:  14 of Suite:   4
+Num:   9 of Suite:   3
+Num:  10 of Suite:   1
+Num:   2 of Suite:   4
+Num:   7 of Suite:   2
+Num:   7 of Suite:   1
+Num:   8 of Suite:   3
+Num:  12 of Suite:   3
+Num:   1 of Suite:   4
+Num:   1 of Suite:   3
+
+Drawing from deck.... 
+Drawn card!! Num: 9, Suite: 2
+-
+Num:   2 of Suite:   2
+Num:   3 of Suite:   4
+Num:  14 of Suite:   3
+Num:  14 of Suite:   2
+Num:   5 of Suite:   3
+Num:   4 of Suite:   1
+Num:   6 of Suite:   1
+Num:  10 of Suite:   3
+Num:   9 of Suite:   1
+Num:   2 of Suite:   1
+Num:   5 of Suite:   4
+Num:   1 of Suite:   2
+Num:  13 of Suite:   2
+Num:   4 of Suite:   3
+Num:   4 of Suite:   2
+Num:   2 of Suite:   3
+Num:  13 of Suite:   1
+Num:   6 of Suite:   2
+Num:   4 of Suite:   4
+Num:   7 of Suite:   4
+Num:   3 of Suite:   2
+Num:   3 of Suite:   3
+Num:  12 of Suite:   2
+Num:  10 of Suite:   4
+Num:   8 of Suite:   1
+Num:  12 of Suite:   4
+Num:  13 of Suite:   4
+Num:  12 of Suite:   1
+Num:   1 of Suite:   1
+Num:   5 of Suite:   2
+Num:   6 of Suite:   3
+Num:   8 of Suite:   2
+Num:   6 of Suite:   4
+Num:  14 of Suite:   1
+Num:   8 of Suite:   4
+Num:  10 of Suite:   2
+Num:  13 of Suite:   3
+Num:   9 of Suite:   4
+Num:   3 of Suite:   1
+Num:   7 of Suite:   3
+Num:   5 of Suite:   1
+Num:  14 of Suite:   4
+Num:   9 of Suite:   3
+Num:  10 of Suite:   1
+Num:   2 of Suite:   4
+Num:   7 of Suite:   2
+Num:   7 of Suite:   1
+Num:   8 of Suite:   3
+Num:  12 of Suite:   3
+Num:   1 of Suite:   4
+Num:   1 of Suite:   3
+
+Shuffling deck.... 
+Num:   7 of Suite:   2
+Num:   9 of Suite:   1
+Num:   3 of Suite:   3
+Num:   4 of Suite:   1
+Num:   2 of Suite:   1
+Num:   1 of Suite:   1
+Num:   7 of Suite:   1
+Num:   4 of Suite:   3
+Num:   5 of Suite:   3
+Num:   6 of Suite:   1
+Num:  10 of Suite:   1
+Num:   4 of Suite:   2
+Num:   1 of Suite:   4
+Num:   3 of Suite:   1
+Num:  10 of Suite:   3
+Num:  14 of Suite:   4
+Num:   1 of Suite:   3
+Num:   3 of Suite:   2
+Num:   6 of Suite:   2
+Num:   5 of Suite:   4
+Num:   8 of Suite:   2
+Num:   4 of Suite:   4
+Num:   8 of Suite:   3
+Num:   6 of Suite:   3
+Num:   3 of Suite:   4
+Num:   2 of Suite:   2
+Num:   1 of Suite:   2
+Num:  12 of Suite:   4
+Num:   6 of Suite:   4
+Num:   8 of Suite:   4
+-
+Num:  13 of Suite:   3
+Num:   7 of Suite:   3
+Num:  14 of Suite:   2
+Num:  13 of Suite:   4
+Num:   5 of Suite:   2
+Num:  10 of Suite:   4
+Num:  12 of Suite:   2
+Num:  14 of Suite:   3
+Num:  10 of Suite:   2
+Num:   2 of Suite:   4
+Num:  12 of Suite:   1
+Num:   9 of Suite:   3
+Num:   2 of Suite:   3
+Num:   8 of Suite:   1
+Num:   7 of Suite:   4
+Num:  13 of Suite:   1
+Num:   9 of Suite:   4
+Num:   5 of Suite:   1
+Num:  13 of Suite:   2
+Num:  12 of Suite:   3
+Num:  14 of Suite:   1
+
+Drawing from deck.... 
+Drawn card!! Num: 7, Suite: 2
+-
+Num:   9 of Suite:   1
+Num:   3 of Suite:   3
+Num:   4 of Suite:   1
+Num:   2 of Suite:   1
+Num:   1 of Suite:   1
+Num:   7 of Suite:   1
+Num:   4 of Suite:   3
+Num:   5 of Suite:   3
+Num:   6 of Suite:   1
+Num:  10 of Suite:   1
+Num:   4 of Suite:   2
+Num:   1 of Suite:   4
+Num:   3 of Suite:   1
+Num:  10 of Suite:   3
+Num:  14 of Suite:   4
+Num:   1 of Suite:   3
+Num:   3 of Suite:   2
+Num:   6 of Suite:   2
+Num:   5 of Suite:   4
+Num:   8 of Suite:   2
+Num:   4 of Suite:   4
+Num:   8 of Suite:   3
+Num:   6 of Suite:   3
+Num:   3 of Suite:   4
+Num:   2 of Suite:   2
+Num:   1 of Suite:   2
+Num:  12 of Suite:   4
+Num:   6 of Suite:   4
+Num:   8 of Suite:   4
+-
+Num:  13 of Suite:   3
+Num:   7 of Suite:   3
+Num:  14 of Suite:   2
+Num:  13 of Suite:   4
+Num:   5 of Suite:   2
+Num:  10 of Suite:   4
+Num:  12 of Suite:   2
+Num:  14 of Suite:   3
+Num:  10 of Suite:   2
+Num:   2 of Suite:   4
+Num:  12 of Suite:   1
+Num:   9 of Suite:   3
+Num:   2 of Suite:   3
+Num:   8 of Suite:   1
+Num:   7 of Suite:   4
+Num:  13 of Suite:   1
+Num:   9 of Suite:   4
+Num:   5 of Suite:   1
+Num:  13 of Suite:   2
+Num:  12 of Suite:   3
+Num:  14 of Suite:   1
+
+Shuffling deck.... 
+Num:  13 of Suite:   1
+Num:   6 of Suite:   1
+Num:   8 of Suite:   3
+Num:   7 of Suite:   1
+Num:  10 of Suite:   1
+Num:   8 of Suite:   4
+Num:   9 of Suite:   4
+Num:  10 of Suite:   3
+Num:   1 of Suite:   1
+Num:   4 of Suite:   3
+Num:   8 of Suite:   1
+Num:  14 of Suite:   4
+Num:  12 of Suite:   3
+Num:  10 of Suite:   2
+Num:   5 of Suite:   3
+Num:   9 of Suite:   3
+Num:  14 of Suite:   1
+Num:   4 of Suite:   4
+Num:   6 of Suite:   2
+Num:   4 of Suite:   2
+Num:   7 of Suite:   3
+Num:   5 of Suite:   4
+Num:   5 of Suite:   1
+Num:  13 of Suite:   3
+Num:   3 of Suite:   3
+Num:   9 of Suite:   1
+Num:   1 of Suite:   4
+Num:   1 of Suite:   2
+Num:  14 of Suite:   2
+Num:   5 of Suite:   2
+-
+Num:  12 of Suite:   2
+Num:   2 of Suite:   4
+Num:   2 of Suite:   1
+Num:  12 of Suite:   4
+-
+Num:   3 of Suite:   4
+Num:   6 of Suite:   3
+Num:   4 of Suite:   1
+Num:  10 of Suite:   4
+Num:   7 of Suite:   4
+Num:   6 of Suite:   4
+Num:   2 of Suite:   3
+Num:   1 of Suite:   3
+Num:   2 of Suite:   2
+Num:   8 of Suite:   2
+Num:   3 of Suite:   2
+Num:  14 of Suite:   3
+Num:  12 of Suite:   1
+Num:   3 of Suite:   1
+Num:  13 of Suite:   2
+Num:  13 of Suite:   4
+
+Drawing from deck.... 
+Drawn card!! Num: 13, Suite: 1
+-
+Num:   6 of Suite:   1
+Num:   8 of Suite:   3
+Num:   7 of Suite:   1
+Num:  10 of Suite:   1
+Num:   8 of Suite:   4
+Num:   9 of Suite:   4
+Num:  10 of Suite:   3
+Num:   1 of Suite:   1
+Num:   4 of Suite:   3
+Num:   8 of Suite:   1
+Num:  14 of Suite:   4
+Num:  12 of Suite:   3
+Num:  10 of Suite:   2
+Num:   5 of Suite:   3
+Num:   9 of Suite:   3
+Num:  14 of Suite:   1
+Num:   4 of Suite:   4
+Num:   6 of Suite:   2
+Num:   4 of Suite:   2
+Num:   7 of Suite:   3
+Num:   5 of Suite:   4
+Num:   5 of Suite:   1
+Num:  13 of Suite:   3
+Num:   3 of Suite:   3
+Num:   9 of Suite:   1
+Num:   1 of Suite:   4
+Num:   1 of Suite:   2
+Num:  14 of Suite:   2
+Num:   5 of Suite:   2
+-
+Num:  12 of Suite:   2
+Num:   2 of Suite:   4
+Num:   2 of Suite:   1
+Num:  12 of Suite:   4
+-
+Num:   3 of Suite:   4
+Num:   6 of Suite:   3
+Num:   4 of Suite:   1
+Num:  10 of Suite:   4
+Num:   7 of Suite:   4
+Num:   6 of Suite:   4
+Num:   2 of Suite:   3
+Num:   1 of Suite:   3
+Num:   2 of Suite:   2
+Num:   8 of Suite:   2
+Num:   3 of Suite:   2
+Num:  14 of Suite:   3
+Num:  12 of Suite:   1
+Num:   3 of Suite:   1
+Num:  13 of Suite:   2
+Num:  13 of Suite:   4
+
+Creating hand.... 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Making new card (1,1) and putting into hand.... 
+Num:   1 of Suite:   1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Making new card (2,2) and putting into hand.... 
+Num:   1 of Suite:   1
+Num:   2 of Suite:   2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Drawing card from deck and putting into hand.... 
+Num:   1 of Suite:   1
+Num:   2 of Suite:   2
+Num:   6 of Suite:   1
+-
+-
+-
+-
+-
+-
+-
+-
+
+Drawing card from deck and putting into hand.... 
+Num:   1 of Suite:   1
+Num:   2 of Suite:   2
+Num:   6 of Suite:   1
+Num:   8 of Suite:   3
+-
+-
+-
+-
+-
+-
+-
+
+Deleting cards.... 
+
+Deleting hand.... 
+
+Deleting deck.... 
+
